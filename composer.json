@@ -2,6 +2,7 @@
   "name": "koraycicekciogullari/hydro-permission",
   "description": "A hydro permission",
   "license": "MIT",
+  "version": "1.0.0",
   "keywords": [
     "hydro",
     "permission"
