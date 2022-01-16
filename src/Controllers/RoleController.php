@@ -3,6 +3,7 @@
 namespace Koraycicekciogullari\HydroPermission\Controllers;
 
 use App\Http\Controllers\Controller;
+use Koraycicekciogullari\HydroPermission\Requests\RoleCreateRequest;
 use Koraycicekciogullari\HydroPermission\Requests\RoleUpdateRequest;
 use Koraycicekciogullari\HydroPermission\Resources\RoleCollection;
 use Koraycicekciogullari\HydroPermission\Resources\RoleResource;
